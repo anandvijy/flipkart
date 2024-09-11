@@ -1,0 +1,28 @@
+/* #nav {
+    width: 100vw;
+    height: 20vh;
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.COMP {
+    width: fit-content;
+    height: fit-content;
+    border: 2px solid greenyellow;
+} */
+
+#box1 {
+    width: 60vw;
+    height: 60vh;
+    border: 2px solid red;
+    
+}
+#box2 {
+    width: 60vw;
+    height: 60vh;
+    border: 2px solid red;
+    
+}
+
